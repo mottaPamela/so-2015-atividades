@@ -29,7 +29,7 @@ env
 
 
 exit
-  Descrição do comando
+  Fecha a conexão remota
 
 
 help
@@ -41,7 +41,7 @@ HISTTIMEFORMAT="%d/%m/%y"
 
 
 hostname
-  Exibe o nome da máquina
+  Exibe o nome da máquina.
 
 
 ifconfig
@@ -49,7 +49,7 @@ ifconfig
 
 
 last
-  Descrição do comando
+ Últimos usuários logados.
 
 
 lastb
@@ -61,7 +61,7 @@ ls
 
 
 mkdir
-  Cria um diretório/pasta. Ex.: mkdir candy
+  Cria um diretório/pasta. Ex.: mkdir nome_da_pasta.
 
 
 nome="fulano
@@ -73,7 +73,7 @@ passswd
 
 
 pwd
-  Descrição do comando
+  Verificar seu diretório.
 
 
 set
