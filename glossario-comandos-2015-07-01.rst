@@ -4,8 +4,8 @@ Glossário de comandos
 
 :Disciplina: Fundamentos de Sistemas Operacionais
 :Professor: Jurandy Soares
-:Nome: Seu nome completo
-:Matrícula: Sua matrícula
+:Nome: Pamela Motta
+:Matrícula: 20121144010630
 :Data: 01/07/2015
 
 cat
@@ -13,7 +13,7 @@ cat
 
 
 cd
-  Descrição do comando
+  Entrar ou sair do diretório
 
 
 cowsay
@@ -41,7 +41,7 @@ HISTTIMEFORMAT="%d/%m/%y"
 
 
 hostname
-  Descrição do comando
+  Exibe o nome da máquina
 
 
 ifconfig
@@ -57,11 +57,11 @@ lastb
 
 
 ls
-  Descrição do comando
+  Lista de arquivos do seu diretório.
 
 
 mkdir
-  Descrição do comando
+  Cria um diretório/pasta. Ex.: mkdir candy
 
 
 nome="fulano
@@ -69,7 +69,7 @@ nome="fulano
 
 
 passswd
-  Descrição do comando
+  Muda a senha do usuário
 
 
 pwd
@@ -81,7 +81,7 @@ set
 
 
 tree
-  Descrição do comando
+  Árvore de comandos digitados. 
 
 
 tty
@@ -109,12 +109,14 @@ while
 
 
 who
-  Descrição do comando
+  Exibe o nome de quem está logado.
 
 
 whoami
-  Descrição do comando
+  Exibe o nome do seu usuário.
 
 write
-  Descrição do comando
+  Escreve uma mensagem para o usuário
+
+  Ex.: write colega "Sua Mensagem"
 
