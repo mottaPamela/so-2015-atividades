@@ -9,7 +9,7 @@ Glossário de comandos
 :Data: 01/07/2015
 
 cat
-  Descrição do comando
+  Exibir conteúdo do arquivo de texto.
 
 
 cd
@@ -21,19 +21,24 @@ cowsay
 
 
 echo
-  Descrição do comando
+  Exibe conteúdo de mensagens ou arquivos na tela do terminal. 
+  Ex.: echo "Este é um teste"
+  <resposta>
+  echo Este é mais um txt >teste.txt
+  cat teste.txt
+  Este é mais um teste.
 
 
 env
-  Descrição do comando
+  Gera variáveis de ambiente.
 
 
 exit
-  Fecha a conexão remota
+  Fecha a conexão remota.
 
 
 help
-  Descrição do comando
+  Variáveis de ambiente que podem ajudar.
 
 
 HISTTIMEFORMAT="%d/%m/%y"
@@ -45,7 +50,7 @@ hostname
 
 
 ifconfig
-  Descrição do comando
+  Visualiza os parâmetros da rede local. 
 
 
 last
