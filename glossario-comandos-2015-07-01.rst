@@ -23,9 +23,13 @@ cowsay
 echo
   Exibe conteúdo de mensagens ou arquivos na tela do terminal. 
   Ex.: echo "Este é um teste"
-  <resposta>
+    
+    <resposta>
+  
   echo Este é mais um txt >teste.txt
+  
   cat teste.txt
+  
   Este é mais um teste.
 
 
