@@ -17,7 +17,7 @@ cd
 
 
 cowsay
-  Descrição do comando
+  Programa que gera fotos, arquivos e mensagens do formato da vaquinha. 
 
 
 echo
@@ -41,44 +41,55 @@ exit
   Fecha a conexão remota.
 
 
+
 help
   Variáveis de ambiente que podem ajudar.
 
 
+
 HISTTIMEFORMAT="%d/%m/%y"
-  Descrição do comando
+  Exibe data e hora do histórico
+
 
 
 hostname
   Exibe o nome da máquina.
 
 
+
 ifconfig
   Visualiza os parâmetros da rede local. 
+
 
 
 last
  Últimos usuários logados.
 
 
+
 lastb
   Descrição do comando
+
 
 
 ls
   Lista de arquivos do seu diretório.
 
 
+
 mkdir
   Cria um diretório/pasta. Ex.: mkdir nome_da_pasta.
+
 
 
 nome="fulano
   Descrição do comando
 
 
+
 passswd
   Muda a senha do usuário
+
 
 
 pwd
@@ -86,31 +97,37 @@ pwd
 
 
 set
-  Descrição do comando
+  Define variáveis de sessão. Ex.: shell ou bash
+
 
 
 tree
   Árvore de comandos digitados. 
 
 
+
 tty
-  Descrição do comando
+  Fornece o terminal onde o usuário está conectado.
+  ex.:dev/ports/2
 
 
 vim
-  Descrição do comando
+  Editor de texto melhorado
+  Ex.:
 
 
 wait
-  Descrição do comando
+  Comando sheel de espera para que possa ser concluído,retornando ao estado de saída.
 
 
 wall
   Descrição do comando
 
 
+
 which
   Descrição do comando
+
 
 
 while
@@ -129,3 +146,4 @@ write
 
   Ex.: write colega "Sua Mensagem"
 
+  
